@@ -1,0 +1,36 @@
+[
+    {
+        "id": 0,
+        "titulo": "Selecione",
+        "descricao": "",
+        "disable": true,
+        "selected": true
+    },
+    {
+        "id": 1,
+        "titulo": "O que é uma Carreta de perfuração PWH-5000 radial?",
+        "descricao": "A carreta de perfuração de rocha PWH-5000 radial, foi projetada para perfuração em qualquer tipo de terreno, rocha ou minério e tem a mesma  eficiência em trabalhos leves ou pesados. ",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 2,
+        "titulo": "Curiosidades sobre ela:",
+        "descricao": "Pode ser equipada com: Perfuratriz (martelo de superfície)
+        Modelos: PWHP-135LS,  PWHP-131LS, PWHP-126 LS, PWHP-121LS
+        Rotator pneumático  (martelo de fundo)
+        Modelos DTH: PWHRP-182 (alto torque), PWHRP-182-05,
+        Modelos Air Reverse:  PWHRV-183 (alto torque), PWHRV-183-05"
+    },
+    {
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 3,
+        "titulo": "Qual seu principal diferencial?",
+        "descricao": "possui giro radial de 360° para executar perfurações em todos os ângulos. Essas características aliadas à elevada força de tração contribuem para um excelente resultado da máquina.",
+        "disable": false,
+        "selected": false
+    }
+]
